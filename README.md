@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Welcome GIF" />
   <br/>
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kalsara25.Kalsara25" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kalsara25.Kalsara25" alt="visitor badge"/> 
   
   <h1>Hi 👋, I'm Kalsara Maleesha</h1>
 </div>
